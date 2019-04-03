@@ -1,0 +1,3 @@
+export const ADD_NEWS_REQUEST = 'ADD_NEWS_REQUEST';
+export const ADD_NEWS_SUCCESS = 'ADD_NEWS_SUCCESS';
+export const ADD_NEWS_ERROR = 'ADD_NEWS_ERROR';
